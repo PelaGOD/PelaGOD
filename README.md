@@ -3,7 +3,10 @@
 
 ## Redes Sociales
 
-:fa-linkedin-square: [LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150/ "LinkedIn")
+[[LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150/ "LinkedIn")](https://img.shields.io/endpoint?color=blue&logo=linkedin&logoColor=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fn%25C3%25A9stor-daniel-escobar-03a620150%2F)
+
+### Habilidades
+
 
 
 <!--
