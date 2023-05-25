@@ -9,7 +9,7 @@
 
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelaGOD)](https://github.com/anuraghazra/github-readme-stats&thema=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelaGOD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
