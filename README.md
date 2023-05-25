@@ -6,7 +6,11 @@
 <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedin&logoColor=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fn%25C3%25A9stor-daniel-escobar-03a620150%2F">
 
 ### Habilidades
-
+* Python
+* JavaScript
+* CSS
+* HTML
+* Figma
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelaGOD)](https://github.com/anuraghazra/github-readme-stats)
