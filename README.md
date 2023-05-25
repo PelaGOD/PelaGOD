@@ -1,4 +1,10 @@
-### Hi there 👋
+# Sobre Mi:
+- Soy un desarrollador Backend con conocimiento en lenguajes de programacion como Python, JavaScript,CSS, HTML (entre algunos). tengo un manejo de Frameworks como Django,FastAPI y Flask. Estudiante Avanzado de la carrera de Analista en Sistemas de Informacion en la Facultad de Ciencia y Tecnología UADER. Aranque en la programacion en 2019 y puedo decir que me encanta la programacion. Me gusta aprender, los juegos, leer y enfrentarme a nuevos desafios.
+
+## Redes Sociales
+
+:fa-linkedin-square: [LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150/ "LinkedIn")
+
 
 <!--
 **PelaGOD/PelaGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
