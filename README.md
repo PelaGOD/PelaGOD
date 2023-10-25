@@ -11,6 +11,13 @@
 * CSS
 * HTML
 * Figma
+* ViteJS
+
+### Framework
+* Django
+* Flask
+* FastAPI
+* React
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PelaGOD)](https://github.com/anuraghazra/github-readme-stats)
