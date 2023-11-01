@@ -3,7 +3,8 @@
 
 ## Redes Sociales
 
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedin&logoColor=blue&url=https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150/">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150)
+
 
 ### Habilidades
 * Python
