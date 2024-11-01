@@ -12,7 +12,7 @@ Soy un apasionado desarrollador Backend con experiencia en múltiples lenguajes 
 - Estoy siempre emocionado por nuevos desafíos y oportunidades para crecer como desarrollador.
 
 ## Redes Sociales
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/n%C3%A9stor-daniel-escobar-03a620150)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/n%C3%A9stor-escobar/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/escobar.danny.n/)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/danny.escobar.52090)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DannyEs18532283)
